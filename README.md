@@ -12,7 +12,7 @@ By leveraging the **Apriori algorithm**, this project identifies frequently boug
 
 - **Source:** [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
 - **Description:**  
-  The dataset contains over 500,000 transactions from a UK-based online retailer, with fields such as:
+  The dataset contains over 50,000 transactions from a UK-based online retailer, with fields such as:
   - InvoiceNo
   - StockCode
   - Description (Product Name)
